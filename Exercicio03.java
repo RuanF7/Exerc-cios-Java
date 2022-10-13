@@ -15,9 +15,9 @@ public class Exercicio03 {
         Scanner leitor = new Scanner(System.in);
         
         System.out.println("Digite a distância total percorrida: ");
-        distanciaTotal = leitor.nextInt();
+        distanciaTotal = leitor.nextFloat();
         System.out.println("Agora digite o total de combústivel gasto: ");
-        totalCombustivel = leitor.nextInt();
+        totalCombustivel = leitor.nextFloat();
         
         consumoMedio = distanciaTotal /  totalCombustivel ;
         
