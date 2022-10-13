@@ -7,7 +7,7 @@ public class Exercicio01 {
 
     public static void main(String[] args) {
         
-        int a, b, soma;
+        int a, b;
         
         Scanner leitor = new Scanner(System.in);
         
@@ -16,7 +16,6 @@ public class Exercicio01 {
         System.out.println("Agora digite outro número: ");
         b = leitor.nextInt();
         
-        soma = a + b;
         System.out.println("A soma de " + a + " + " + b +" = " + (a + b));
         
     }
