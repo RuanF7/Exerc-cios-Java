@@ -20,7 +20,7 @@ public class Exercicio08 {
         System.out.println("Qual a cotação do Dolar hoje? ");
         cotacaoDolar = leitor.nextDouble();
         
-        System.out.println("O valor U$"+ quantidadeDolar + " convertido para"
+        System.out.println("O valor US$"+ quantidadeDolar + " convertido para"
                 + " reais é de R$"+ (quantidadeDolar * cotacaoDolar) );
     }
 }
