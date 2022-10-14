@@ -28,3 +28,4 @@ public class Exercicio06 {
                 " e B = "+ b);
     }
 }
+ 
