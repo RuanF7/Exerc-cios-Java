@@ -24,6 +24,6 @@ public class Exercicio11 {
         System.out.println("O valor de venda do produto será de: R$"+ 
                 (precoCusto * percentual / 100 + precoCusto));
  
-       } 
+       }  
     
 }
